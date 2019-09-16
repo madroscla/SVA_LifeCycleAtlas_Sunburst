@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Combined - Version 2.0</title>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src='https://code.jquery.com/jquery-3.3.1.min.js'></script>
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600">
+    <link rel="stylesheet" type="text/css" href="sequences.css" />
+</head>
+
+<body>
+    <div id="title"></div>
+    <div id="legend"></div>
+    <div id="main">
+        <div id="sequence"></div>
+        <div id="chart">
+            <div id="explanation" style="visibility: hidden;">
+                <span id="percentage"></span> <br/>
+                <span id="description"></span> <br/>
+                <br/>
+                <span id="rawcount"></span>
+            </div>
+        </div>
+    </div>
+    <div id="sidebar">
+        <p style="font-size:14px"><b>Select a category:</b></p>
+        <div class="navigation">
+            <ul id="optionsList">
+                <li data-folder="overall" data-id="overall"><a>Overall</a></li>
+                <li class="has-sub"><a>Gender</a>
+                    <ul>
+                        <li data-folder="gender" data-id="female"><a>Female</a></li>
+                        <li data-folder="gender" data-id="male"><a>Male</a></li>
+                    </ul>
+                </li>
+                <li class="has-sub"><a>Age range</a>
+                    <ul>
+                        <li data-folder="age" data-id="18to24"><a>Ages 18-24</a></li>
+                        <li data-folder="age" data-id="25to34"><a>Ages 25-34</a></li>
+                        <li data-folder="age" data-id="35to44"><a>Ages 35-44</a></li>
+                        <li data-folder="age" data-id="45to54"><a>Ages 45-54</a></li>
+                        <li data-folder="age" data-id="55to64"><a>Ages 55-64</a></li>
+                        <li data-folder="age" data-id="65plus"><a>Ages 65 and older</a></li>
+                    </ul>
+                </li>
+                <li class="has-sub"><a>Race/Ethnicity</a>
+                    <ul>
+                        <li data-folder="ethnicity" data-id="black"><a>African-American/Black</a></li>
+                        <li data-folder="ethnicity" data-id="asian"><a>Asian</a></li>
+                        <li data-folder="ethnicity" data-id="white"><a>White/Caucasian</a></li>
+                        <li data-folder="ethnicity" data-id="latino"><a>Hispanic/Latino/a</a></li>
+                        <li data-folder="ethnicity" data-id="islander"><a>Pacific Islander/Native Hawaiian</a></li>
+                        <li data-folder="ethnicity" data-id="nativeamerican"><a>Native American/Alaska Native</a></li>
+                    </ul>
+                </li>
+                <li class="has-sub"><a>Education level</a>
+                    <ul>
+                        <li data-folder="education" data-id="somecollege"><a>Some college</a></li>
+                        <li data-folder="education" data-id="twoyear"><a>2-year degree</a></li>
+                        <li data-folder="education" data-id="fouryear"><a>4-year degree</a></li>
+                        <li data-folder="education" data-id="fifthyear"><a>5th year certificate</a></li>
+                        <li data-folder="education" data-id="graduate"><a>Graduate degree</a></li>
+                        <li data-folder="education" data-id="doctorate"><a>Doctoral degree</a></li>
+                    </ul>
+                </li>
+                <li class="has-sub"><a>Annual personal income</a>
+                    <ul>
+                        <li data-folder="income" data-id="lessthan30k"><a>Less than $30,000</a></li>
+                        <li data-folder="income" data-id="30k"><a>$30,000-$39,999</a></li>
+                        <li data-folder="income" data-id="40k"><a>$40,000-$49,999</a></li>
+                        <li data-folder="income" data-id="50k"><a>$50,000-$59,999</a></li>
+                        <li data-folder="income" data-id="60k"><a>$60,000-$69,999</a></li>
+                        <li data-folder="income" data-id="70k"><a>$70,000-$79,999</a></li>
+                        <li data-folder="income" data-id="80k"><a>$80,000-$89,999</a></li>
+                        <li data-folder="income" data-id="90k"><a>$90,000-$99,999</a></li>
+                        <li data-folder="income" data-id="100k"><a>$100,000-$109,999</a></li>
+                        <li data-folder="income" data-id="110k"><a>$110,000-$119,999</a></li>
+                        <li data-folder="income" data-id="120k"><a>$120,000-$129,999</a></li>
+                        <li data-folder="income" data-id="130k"><a>$130,000-$139,999</a></li>
+                        <li data-folder="income" data-id="140k"><a>$140,000-$149,999</a></li>
+                        <li data-folder="income" data-id="150kandabove"><a>$150,000 and above</a></li>
+                    </ul>
+                </li>
+                <li class="has-sub"><a>Military branch</a>
+                    <ul>
+                        <li data-folder="branch" data-id="airforce"><a>Air Force</a></li>
+                        <li data-folder="branch" data-id="army"><a>Army</a></li>
+                        <li data-folder="branch" data-id="coastguard"><a>Coast Guard</a></li>
+                        <li data-folder="branch" data-id="navy"><a>Navy</a></li>
+                        <li data-folder="branch" data-id="marinecorps"><a>Marine Corps</a></li>
+                    </ul>
+                </li>
+                <li class="has-sub"><a>Military enrollment year</a>
+                    <ul>
+                        <li data-folder="year" data-id="1950s"><a>1950-1959</a></li>
+                        <li data-folder="year" data-id="1960s"><a>1960-1969</a></li>
+                        <li data-folder="year" data-id="1970s"><a>1970-1979</a></li>
+                        <li data-folder="year" data-id="1980s"><a>1980-1989</a></li>
+                        <li data-folder="year" data-id="1990s"><a>1990-1999</a></li>
+                        <li data-folder="year" data-id="2000s"><a>2000-2009</a></li>
+                        <li data-folder="year" data-id="2010s"><a>2010-2019</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <script type="text/javascript" src="sequences.js"></script>
+</body>
+
+</html>
