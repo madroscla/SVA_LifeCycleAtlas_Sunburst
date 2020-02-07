@@ -1,6 +1,6 @@
-Last updated 07 February 2020
+Last updated 07 February 2020.
 
-Part of [Student Veterans Life Cycle Atlus](https://atlas.studentveterans.org/). Created by Madeline Clark at [Student Veterans of America](https://studentveterans.org/).
+Part of [Student Veterans Life Cycle Atlas](https://atlas.studentveterans.org/). Created by Madeline Clark at [Student Veterans of America](https://studentveterans.org/).
 
 A sunburst diagram showing the paths of veterans post-high school. Each node indicates a sequential stage in one's life, going up to eight stages.
 
