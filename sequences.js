@@ -349,7 +349,7 @@ function drawLegend() {
                         .style("top", "193px");
                     break;
                 case "TBD":
-                    div.html("This path indicates that the participant has not reached the next stage in their lifecycle yet. This may also indicate that the participant did not wish to share the further stages of their cycle.")
+                    div.html("This path indicates that the participant has not reached the next stage in their life cycle yet. This may also indicate that the participant did not wish to share the further stages of their cycle.")
                         .style("left", "1020px")
                         .style("top", "226px");
                     break;
@@ -394,7 +394,7 @@ function drawLegend() {
                         .style("top", "193px");
                     break;
                 case "TBD":
-                    div.html("This path indicates that the participant has not reached the next stage in their lifecycle yet. This may also indicate that the participant did not wish to share the further stages of their cycle.")
+                    div.html("This path indicates that the participant has not reached the next stage in their life cycle yet. This may also indicate that the participant did not wish to share the further stages of their cycle.")
                         .style("left", "1020px")
                         .style("top", "226px");
                     break;
