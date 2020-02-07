@@ -1,4 +1,4 @@
-Last updated 12/17/2019.
+Last updated 07 February 2020
 
 Part of [Student Veterans Life Cycle Atlus](https://atlas.studentveterans.org/). Created by Madeline Clark at [Student Veterans of America](https://studentveterans.org/).
 
@@ -6,10 +6,12 @@ A sunburst diagram showing the paths of veterans post-high school. Each node ind
 
 Reads in different hierarchical JSON files based on dropdown menu selection.
 
-Designed based initially on [kerryrodden's sequential sunburst](http://bl.ocks.org/kerryrodden/7090426).
+Design based initially on [kerryrodden's sequential sunburst](http://bl.ocks.org/kerryrodden/7090426).
 
 Written in [D3.js v4](https://d3js.org/).
 
-Known Issues:
-* Education is currently being updates; the Graduate chart is missing and the Doctorate chart is only showing partial results
-* Not every sunburst option is up-to-date; some still show the early survey results (n = 1207) and need to be updated to reflect new totals
+Major updates:
+* All sunbursts/JSON files represent the full survey results (n = 3750)
+* Scrollbars are enabled to allow for zooming/different screen resolutions
+* Tooltip explanations of each path in the legend (tooltips based on [d3noob's code](https://bl.ocks.org/d3noob/a22c42db65eb00d4e369))
+* Short subtitle briefly explaining each diagram

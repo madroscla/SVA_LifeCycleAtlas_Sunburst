@@ -1,9 +1,10 @@
 {
  "name": "root",
  "category": "Education Level - 2-year degree",
+ "subtitle":"This diagram shows paths of all 130 participants who marked their highest education level/intended highest education level as \"2-year degree.\"",
  "children": [
   {
-   "name": "Military", "size":81,
+   "name": "Military", "size":84,
    "children": [
     {
      "name": "Military", "size":3,
@@ -6560,7 +6561,7 @@
      ]
     },    
     {
-     "name": "Work", "size":20,
+     "name": "Work", "size":21,
      "children": [
       {
        "name": "Military", "size":0.00,
@@ -9833,18 +9834,18 @@
        ]
       },
 	  {"name": "Retired", "size":1},
-      {"name": "TBD", "size":10} 
+      {"name": "TBD", "size":11} 
      ]
     },
 	{"name": "Retired", "size":1},
-    {"name": "TBD", "size":52}
+    {"name": "TBD", "size":54}
    ]
   },
   {
    "name": "School", "size":16,
    "children": [
     {
-     "name": "Military", "size":3,
+     "name": "Military", "size":4,
      "children": [
       {
        "name": "Military", "size":0,
@@ -10937,7 +10938,7 @@
        ]
       }, 
       {
-       "name": "School", "size":1,
+       "name": "School", "size":2,
        "children": [
         {
          "name": "Military", "size":0.00,
@@ -11662,7 +11663,7 @@
          ]
         },
         {
-         "name": "Work", "size":0.00,
+         "name": "Work", "size":1,
 		 "children": [
           {
            "name": "Military", "size":0.00,
@@ -12019,7 +12020,7 @@
            ]
           },    
           {"name": "Retired", "size":0.00},
-          {"name": "TBD", "size":0.00}
+          {"name": "TBD", "size":1}
          ]
         },
         {"name": "Retired", "size":0.00},
@@ -16398,10 +16399,10 @@
      ]
     },    
     {
-     "name": "Work", "size":4,
+     "name": "Work", "size":3,
      "children": [
       {
-       "name": "Military", "size":2,
+       "name": "Military", "size":1,
        "children": [
         {
          "name": "Military", "size":0.00,
@@ -16765,7 +16766,7 @@
          ]
         },     
         {
-         "name": "School", "size":1,
+         "name": "School", "size":0.000,
 		 "children": [
           {
            "name": "Military", "size":0.00,
@@ -17004,7 +17005,7 @@
            ]
           },    
           {
-           "name": "Work", "size":1,
+           "name": "Work", "size":0.00,
             "children": [          
             {
              "name": "Military", "size":0.00,
@@ -17118,7 +17119,7 @@
              ]
             },   
             {"name": "Retired", "size":0.00},
-            {"name": "TBD", "size":1}
+            {"name": "TBD", "size":0.00}
            ]
           },    
           {"name": "Retired", "size":0.00},
@@ -22829,7 +22830,7 @@
            ]
           },    
           {
-           "name": "Work", "size":0.00,
+           "name": "Work", "size":0,
             "children": [          
             {
              "name": "Military", "size":0.00,
@@ -22943,7 +22944,7 @@
              ]
             },   
             {"name": "Retired", "size":0.00},
-            {"name": "TBD", "size":0.00}
+            {"name": "TBD", "size":0}
            ]
           },    
           {"name": "Retired", "size":1},

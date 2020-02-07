@@ -1,9 +1,10 @@
 {
  "name": "root",
  "category": "Service era - Korean War [1950-1953]",
+ "subtitle":"This diagram shows paths of all 23 participants who served in the Korean War.",
  "children": [
   {
-   "name": "Military", "size":0,
+   "name": "Military", "size":15,
    "children": [
     {
      "name": "Military", "size":0,
@@ -3283,7 +3284,7 @@
      ]
     },	 
     {
-     "name": "School", "size":0,
+     "name": "School", "size":5,
      "children": [
       {
        "name": "Military", "size":0,
@@ -5466,7 +5467,7 @@
        ]
       },
       {
-       "name": "Work", "size":0.00,
+       "name": "Work", "size":1,
        "children": [
         {
          "name": "Military", "size":0.00,
@@ -5830,7 +5831,7 @@
          ]
         },     
         {
-         "name": "School", "size":0.00,
+         "name": "School", "size":1,
 		 "children": [
           {
            "name": "Military", "size":0.00,
@@ -6187,7 +6188,7 @@
            ]
           },    
           {"name": "Retired", "size":0.00},
-          {"name": "TBD", "size":0.00}
+          {"name": "TBD", "size":1}
          ]
         },
         {
@@ -6555,12 +6556,12 @@
         {"name": "TBD", "size":0.000}
        ]
       },
-	  {"name": "Retired", "size":0.00},
-      {"name": "TBD", "size":0.00} 
+	  {"name": "Retired", "size":1},
+      {"name": "TBD", "size":3} 
      ]
     },    
     {
-     "name": "Work", "size":0.00,
+     "name": "Work", "size":3,
      "children": [
       {
        "name": "Military", "size":0.00,
@@ -9832,19 +9833,19 @@
         {"name": "TBD", "size":0.000}
        ]
       },
-	  {"name": "Retired", "size":0.00},
-      {"name": "TBD", "size":0.00} 
+	  {"name": "Retired", "size":2},
+      {"name": "TBD", "size":1} 
      ]
     },
-	{"name": "Retired", "size":0.00},
-    {"name": "TBD", "size":0.00}
+	{"name": "Retired", "size":2},
+    {"name": "TBD", "size":5}
    ]
   },
   {
-   "name": "School", "size":1,
+   "name": "School", "size":4,
    "children": [
     {
-     "name": "Military", "size":1,
+     "name": "Military", "size":2,
      "children": [
       {
        "name": "Military", "size":0,
@@ -10937,7 +10938,7 @@
        ]
       }, 
       {
-       "name": "School", "size":0.00,
+       "name": "School", "size":1,
        "children": [
         {
          "name": "Military", "size":0.00,
@@ -12023,11 +12024,11 @@
          ]
         },
         {"name": "Retired", "size":0.00},
-        {"name": "TBD", "size":0.000}
+        {"name": "TBD", "size":1}
        ]
       },
       {
-       "name": "Work", "size":1,
+       "name": "Work", "size":0.00,
        "children": [
         {
          "name": "Military", "size":0.00,
@@ -12391,7 +12392,7 @@
          ]
         },     
         {
-         "name": "School", "size":1,
+         "name": "School", "size":0.000,
 		 "children": [
           {
            "name": "Military", "size":0.00,
@@ -12748,7 +12749,7 @@
            ]
           },    
           {"name": "Retired", "size":0.00},
-          {"name": "TBD", "size":1}
+          {"name": "TBD", "size":0.00}
          ]
         },
         {
@@ -13117,7 +13118,7 @@
        ]
       },
 	  {"name": "Retired", "size":0.00},
-      {"name": "TBD", "size":0.00} 
+      {"name": "TBD", "size":1} 
      ]
     },	 
     {
@@ -16398,7 +16399,7 @@
      ]
     },    
     {
-     "name": "Work", "size":0.00,
+     "name": "Work", "size":1,
      "children": [
       {
        "name": "Military", "size":0.00,
@@ -17491,7 +17492,7 @@
        ]
       }, 
       {
-       "name": "School", "size":0.00,
+       "name": "School", "size":1,
        "children": [
         {
          "name": "Military", "size":0.00,
@@ -18577,7 +18578,7 @@
          ]
         },
         {"name": "Retired", "size":0.00},
-        {"name": "TBD", "size":0.00}
+        {"name": "TBD", "size":1}
        ]
       },
       {
@@ -19675,14 +19676,14 @@
      ]
     },
 	{"name": "Retired", "size":0},
-    {"name": "TBD", "size":0.000}
+    {"name": "TBD", "size":1}
    ]
   },      
   {
-   "name": "Work", "size":0.000,
+   "name": "Work", "size":4,
    "children": [
     {
-     "name": "Military", "size":0.00,
+     "name": "Military", "size":4,
      "children": [
       {
        "name": "Military", "size":0.00,
@@ -20775,7 +20776,7 @@
        ]
       }, 
       {
-       "name": "School", "size":0.00,
+       "name": "School", "size":3,
        "children": [
         {
          "name": "Military", "size":0.00,
@@ -21500,7 +21501,7 @@
          ]
         },
         {
-         "name": "Work", "size":0.00,
+         "name": "Work", "size":2,
 		 "children": [
           {
            "name": "Military", "size":0.00,
@@ -21857,15 +21858,15 @@
            ]
           },    
           {"name": "Retired", "size":0.00},
-          {"name": "TBD", "size":0.00}
+          {"name": "TBD", "size":2}
          ]
         },
-        {"name": "Retired", "size":0.00},
+        {"name": "Retired", "size":1},
         {"name": "TBD", "size":0.00}
        ]
       },
       {
-       "name": "Work", "size":0.00,
+       "name": "Work", "size":1,
        "children": [
         {
          "name": "Military", "size":0.00,
@@ -22590,7 +22591,7 @@
          ]
         },
         {
-         "name": "Work", "size":0.00,
+         "name": "Work", "size":1,
 		 "children": [
           {
            "name": "Military", "size":0.00,
@@ -22947,7 +22948,7 @@
            ]
           },    
           {"name": "Retired", "size":0.00},
-          {"name": "TBD", "size":0.00}
+          {"name": "TBD", "size":1}
          ]
         },
         {"name": "Retired", "size":0.00},

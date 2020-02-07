@@ -1,6 +1,7 @@
 {
  "name": "root",
  "category": "Race/Ethnicity - Middle Eastern",
+ "subtitle":"This diagram shows paths of all 5 participants who marked their ethnicity/race as Middle Eastern.",
  "children": [
   {
    "name": "Military", "size":1,
@@ -21731,7 +21732,7 @@
          				]
         			},
               {"name": "Retired", "size":0.00},
-              {"name": "TBD", "size":1}
+              {"name": "TBD", "size":0.00}
              ]
             },   
             {"name": "Retired", "size":0.00},

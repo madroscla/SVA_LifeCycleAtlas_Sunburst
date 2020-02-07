@@ -5,13 +5,16 @@
     <meta charset="utf-8">
     <title>Student Veterans Life Cycle Atlus - Sunburst</title>
     <script src="https://d3js.org/d3.v4.min.js"></script>
-    <script src='https://code.jquery.com/jquery-3.3.1.min.js'></script>
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600">
     <link rel="stylesheet" type="text/css" href="sequences.css" />
 </head>
 
 <body>
     <div id="title"></div>
+    <div id="subtitle"></div>
+    <div id="sidebar-right">
+        <p style="font-size:12px"><b>Hover over each option for more information</b></p>
+    </div>
     <div id="legend"></div>
     <div id="main">
         <div id="sequence"></div>
@@ -24,7 +27,7 @@
             </div>
         </div>
     </div>
-    <div id="sidebar">
+    <div id="sidebar-left">
         <p style="font-size:14px"><b>Select a category:</b></p>
         <div class="navigation">
             <ul id="optionsList">
@@ -42,7 +45,8 @@
                         <li data-folder="age" data-id="35to44"><a>Ages 35-44</a></li>
                         <li data-folder="age" data-id="45to54"><a>Ages 45-54</a></li>
                         <li data-folder="age" data-id="55to64"><a>Ages 55-64</a></li>
-                        <li data-folder="age" data-id="65plus"><a>Ages 65 and older</a></li>
+                        <li data-folder="age" data-id="65to74"><a>Ages 65-74</a></li>
+                        <li data-folder="age" data-id="75plus"><a>Ages 75 and older</a></li>
                     </ul>
                 </li>
                 <li class="has-sub"><a>Race/Ethnicity</a>
@@ -51,6 +55,7 @@
                         <li data-folder="ethnicity" data-id="asian"><a>Asian</a></li>
                         <li data-folder="ethnicity" data-id="white"><a>White/Caucasian</a></li>
                         <li data-folder="ethnicity" data-id="latino"><a>Hispanic/Latino/a</a></li>
+                        <li data-folder="ethnicity" data-id="middleeastern"><a>Middle Eastern</a></li>
                         <li data-folder="ethnicity" data-id="islander"><a>Pacific Islander/Native Hawaiian</a></li>
                         <li data-folder="ethnicity" data-id="nativeamerican"><a>Native American/Alaska Native</a></li>
                     </ul>
@@ -96,7 +101,6 @@
                     <ul>
                         <li data-folder="era" data-id="humanitarian"><a>Humanitarian Operations</a></li>
                         <li data-folder="era" data-id="peacetime"><a>Peacetime Service</a></li>
-                        <li data-folder="era" data-id="ww2"><a>World War II</a></li>
                         <li data-folder="era" data-id="korean"><a>Korean War</a></li>
                         <li data-folder="era" data-id="vietnam"><a>Vietnam War</a></li>
                         <li data-folder="era" data-id="coldwar"><a>Cold War Era (Other)</a></li>

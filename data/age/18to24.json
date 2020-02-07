@@ -1,9 +1,10 @@
 {
  "name": "root",
  "category": "Age range - Ages 18-24",
+ "subtitle":"This diagram shows paths of all 80 participants between the ages of 18-24.",
  "children": [
   {
-   "name": "Military", "size":43,
+   "name": "Military", "size":47,
    "children": [
     {
      "name": "Military", "size":2,
@@ -3283,7 +3284,7 @@
      ]
     },	 
     {
-     "name": "School", "size":13,
+     "name": "School", "size":15,
      "children": [
       {
        "name": "Military", "size":0,
@@ -6556,7 +6557,7 @@
        ]
       },
 	  {"name": "Retired", "size":0.00},
-      {"name": "TBD", "size":13} 
+      {"name": "TBD", "size":15} 
      ]
     },    
     {
@@ -9837,11 +9838,11 @@
      ]
     },
 	{"name": "Retired", "size":0.00},
-    {"name": "TBD", "size":26}
+    {"name": "TBD", "size":28}
    ]
   },
   {
-   "name": "School", "size":25,
+   "name": "School", "size":27,
    "children": [
     {
      "name": "Military", "size":1,
@@ -19675,7 +19676,7 @@
      ]
     },
 	{"name": "Retired", "size":0},
-    {"name": "TBD", "size":18}
+    {"name": "TBD", "size":20}
    ]
   },      
   {

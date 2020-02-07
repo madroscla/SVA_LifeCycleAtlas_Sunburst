@@ -1,12 +1,13 @@
 {
  "name": "root",
  "category": "Annual personal income - $60,000-$69,999",
+ "subtitle":"This diagram shows paths of all 236 participants whose annual personal income is between $60,000-$69,999.",
  "children": [
   {
-   "name": "Military", "size":118,
+   "name": "Military", "size":127,
    "children": [
     {
-     "name": "Military", "size":3,
+     "name": "Military", "size":4,
      "children": [
       {
        "name": "Military", "size":0.00,
@@ -1099,7 +1100,7 @@
        ]
       }, 
       {
-       "name": "School", "size":1,
+       "name": "School", "size":2,
        "children": [
         {
          "name": "Military", "size":0.00,
@@ -1824,7 +1825,7 @@
          ]
         },
         {
-         "name": "Work", "size":1,
+         "name": "Work", "size":2,
 		 			"children": [
           {
            "name": "Military", "size":0.00,
@@ -2181,7 +2182,7 @@
            ]
           },    
           {"name": "Retired", "size":0.00},
-          {"name": "TBD", "size":1}
+          {"name": "TBD", "size":2}
          ]
         },
         {"name": "Retired", "size":0.00},
@@ -3283,7 +3284,7 @@
      ]
     },	 
     {
-     "name": "School", "size":33,
+     "name": "School", "size":37,
      "children": [
       {
        "name": "Military", "size":0,
@@ -4376,7 +4377,7 @@
        ]
       }, 
       {
-       "name": "School", "size":6,
+       "name": "School", "size":7,
        "children": [
         {
          "name": "Military", "size":0.00,
@@ -5462,11 +5463,11 @@
          ]
         },
         {"name": "Retired", "size":0.00},
-        {"name": "TBD", "size":3}
+        {"name": "TBD", "size":4}
        ]
       },
       {
-       "name": "Work", "size":11,
+       "name": "Work", "size":12,
        "children": [
         {
          "name": "Military", "size":0.00,
@@ -6551,16 +6552,16 @@
           {"name": "TBD", "size":1}
          ]
         },
-        {"name": "Retired", "size":3},
+        {"name": "Retired", "size":4},
         {"name": "TBD", "size":5}
        ]
       },
 	  {"name": "Retired", "size":1},
-      {"name": "TBD", "size":15} 
+      {"name": "TBD", "size":17} 
      ]
     },    
     {
-     "name": "Work", "size":27,
+     "name": "Work", "size":29,
      "children": [
       {
        "name": "Military", "size":0.00,
@@ -8743,7 +8744,7 @@
        ]
       },
       {
-       "name": "Work", "size":9,
+       "name": "Work", "size":10,
        "children": [
         {
          "name": "Military", "size":0.00,
@@ -9107,7 +9108,7 @@
          ]
         },     
         {
-         "name": "School", "size":1,
+         "name": "School", "size":2,
 		 "children": [
           {
            "name": "Military", "size":0.00,
@@ -9228,7 +9229,7 @@
            ]
           },   
           {
-           "name": "School", "size":0.00,
+           "name": "School", "size":1,
             "children": [          
             {
              "name": "Military", "size":0.00,
@@ -9305,7 +9306,7 @@
              ]
             },   
             {
-             "name": "Work", "size":0.00,
+             "name": "Work", "size":1,
               "children": [
               {
                "name": "Military", "size":0.00,
@@ -9338,7 +9339,7 @@
          				]
         			},
               {"name": "Retired", "size":0.00},
-              {"name": "TBD", "size":0.00}
+              {"name": "TBD", "size":1}
              ]
             },   
             {"name": "Retired", "size":0.00},
@@ -9832,19 +9833,19 @@
         {"name": "TBD", "size":5}
        ]
       },
-	  {"name": "Retired", "size":0},
-      {"name": "TBD", "size":5} 
+	  {"name": "Retired", "size":0.00},
+      {"name": "TBD", "size":6} 
      ]
     },
 	{"name": "Retired", "size":4},
-    {"name": "TBD", "size":51}
+    {"name": "TBD", "size":53}
    ]
   },
   {
-   "name": "School", "size":62,
+   "name": "School", "size":65,
    "children": [
     {
-     "name": "Military", "size":28,
+     "name": "Military", "size":23,
      "children": [
       {
        "name": "Military", "size":0,
@@ -10937,10 +10938,10 @@
        ]
       }, 
       {
-       "name": "School", "size":17,
+       "name": "School", "size":14,
        "children": [
         {
-         "name": "Military", "size":1,
+         "name": "Military", "size":0.00,
 		 "children": [
           {
            "name": "Military", "size":0.00,
@@ -11297,11 +11298,11 @@
            ]
           },    
           {"name": "Retired", "size":0.00},
-          {"name": "TBD", "size":1}
+          {"name": "TBD", "size":0.00}
          ]
         },     
         {
-         "name": "School", "size":1,
+         "name": "School", "size":0.00,
 		 "children": [
           {
            "name": "Military", "size":0.00,
@@ -11658,11 +11659,11 @@
            ]
           },    
           {"name": "Retired", "size":0.00},
-          {"name": "TBD", "size":1}
+          {"name": "TBD", "size":0.00}
          ]
         },
         {
-         "name": "Work", "size":5,
+         "name": "Work", "size":4,
 		 "children": [
           {
            "name": "Military", "size":0.00,
@@ -11783,7 +11784,7 @@
            ]
           },   
           {
-           "name": "School", "size":1,
+           "name": "School", "size":0.00,
             "children": [          
             {
              "name": "Military", "size":0.00,
@@ -11897,7 +11898,7 @@
              ]
             },   
             {"name": "Retired", "size":0.00},
-            {"name": "TBD", "size":1}
+            {"name": "TBD", "size":0.000}
            ]
           },    
           {
@@ -12027,7 +12028,7 @@
        ]
       },
       {
-       "name": "Work", "size":10,
+       "name": "Work", "size":8,
        "children": [
         {
          "name": "Military", "size":0.00,
@@ -12391,7 +12392,7 @@
          ]
         },     
         {
-         "name": "School", "size":5,
+         "name": "School", "size":3,
 		 "children": [
           {
            "name": "Military", "size":0.00,
@@ -12512,7 +12513,7 @@
            ]
           },   
           {
-           "name": "School", "size":2,
+           "name": "School", "size":3,
             "children": [          
             {
              "name": "Military", "size":0.00,
@@ -12626,11 +12627,11 @@
              ]
             },   
             {"name": "Retired", "size":0.00},
-            {"name": "TBD", "size":0.00}
+            {"name": "TBD", "size":1}
            ]
           },    
           {
-           "name": "Work", "size":2,
+           "name": "Work", "size":0.00,
             "children": [          
             {
              "name": "Military", "size":0.00,
@@ -12707,7 +12708,7 @@
              ]
             },   
             {
-             "name": "Work", "size":1,
+             "name": "Work", "size":0.00,
               "children": [
               {
                "name": "Military", "size":0.00,
@@ -12730,13 +12731,13 @@
          				]
         			},
               {
-               "name": "Work", "size":1,
+               "name": "Work", "size":0.00,
                 "children": [
                   {"name": "Military", "size":0.00},
                   {"name": "School", "size":0.00},
                   {"name": "Work", "size":0.00},
                   {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":1}
+                  {"name": "TBD", "size":0.00}
          				]
         			},
               {"name": "Retired", "size":0.00},
@@ -12744,15 +12745,15 @@
              ]
             },   
             {"name": "Retired", "size":0.00},
-            {"name": "TBD", "size":1}
+            {"name": "TBD", "size":0.00}
            ]
           },    
           {"name": "Retired", "size":0.00},
-          {"name": "TBD", "size":1}
+          {"name": "TBD", "size":0.00}
          ]
         },
         {
-         "name": "Work", "size":3,
+         "name": "Work", "size":4,
 		 "children": [
           {
            "name": "Military", "size":0.00,
@@ -13109,10 +13110,10 @@
            ]
           },    
           {"name": "Retired", "size":1},
-          {"name": "TBD", "size":2}
+          {"name": "TBD", "size":3}
          ]
         },
-        {"name": "Retired", "size":1},
+        {"name": "Retired", "size":0.00},
         {"name": "TBD", "size":1}
        ]
       },
@@ -13121,7 +13122,7 @@
      ]
     },	 
     {
-     "name": "School", "size":11,
+     "name": "School", "size":13,
      "children": [
       {
        "name": "Military", "size":2,
@@ -13849,7 +13850,7 @@
          ]
         },
         {
-         "name": "Work", "size":1,
+         "name": "Work", "size":0.00,
 		 "children": [
           {
            "name": "Military", "size":0.00,
@@ -14088,7 +14089,7 @@
            ]
           },    
           {
-           "name": "Work", "size":1,
+           "name": "Work", "size":0.00,
             "children": [          
             {
              "name": "Military", "size":0.00,
@@ -14202,7 +14203,7 @@
              ]
             },   
             {"name": "Retired", "size":0.00},
-            {"name": "TBD", "size":1}
+            {"name": "TBD", "size":0.00}
            ]
           },    
           {"name": "Retired", "size":0.00},
@@ -14210,11 +14211,11 @@
          ]
         },
         {"name": "Retired", "size":0.00},
-        {"name": "TBD", "size":1}
+        {"name": "TBD", "size":2}
        ]
       }, 
       {
-       "name": "School", "size":1,
+       "name": "School", "size":3,
        "children": [
         {
          "name": "Military", "size":0.00,
@@ -15300,7 +15301,7 @@
          ]
         },
         {"name": "Retired", "size":0.00},
-        {"name": "TBD", "size":1}
+        {"name": "TBD", "size":3}
        ]
       },
       {
@@ -15668,7 +15669,7 @@
          ]
         },     
         {
-         "name": "School", "size":0.00,
+         "name": "School", "size":1,
 		 "children": [
           {
            "name": "Military", "size":0.00,
@@ -16025,7 +16026,7 @@
            ]
           },    
           {"name": "Retired", "size":0.00},
-          {"name": "TBD", "size":0.00}
+          {"name": "TBD", "size":1}
          ]
         },
         {
@@ -16389,7 +16390,7 @@
           {"name": "TBD", "size":0.00}
          ]
         },
-        {"name": "Retired", "size":1},
+        {"name": "Retired", "size":0.00},
         {"name": "TBD", "size":3}
        ]
       },
@@ -16398,7 +16399,7 @@
      ]
     },    
     {
-     "name": "Work", "size":7,
+     "name": "Work", "size":13,
      "children": [
       {
        "name": "Military", "size":1,
@@ -17491,1097 +17492,7 @@
        ]
       }, 
       {
-       "name": "School", "size":2,
-       "children": [
-        {
-         "name": "Military", "size":0.00,
-		 "children": [
-          {
-           "name": "Military", "size":0.00,
-            "children": [          
-            {
-             "name": "Military", "size":0.00,
-              "children": [
-              {
-               "name": "Military", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "School", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "Work", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {"name": "Retired", "size":0.00},
-              {"name": "TBD", "size":0.00}
-             ]
-            }, 
-            {
-             "name": "School", "size":0.00,
-              "children": [
-              {
-               "name": "Military", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "School", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "Work", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {"name": "Retired", "size":0.00},
-              {"name": "TBD", "size":0.00}
-             ]
-            },   
-            {
-             "name": "Work", "size":0.00,
-              "children": [
-              {
-               "name": "Military", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "School", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "Work", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {"name": "Retired", "size":0.00},
-              {"name": "TBD", "size":0.00}
-             ]
-            },   
-            {"name": "Retired", "size":0.00},
-            {"name": "TBD", "size":0.00}
-           ]
-          },   
-          {
-           "name": "School", "size":0.00,
-            "children": [          
-            {
-             "name": "Military", "size":0.00,
-              "children": [
-              {
-               "name": "Military", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "School", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "Work", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {"name": "Retired", "size":0.00},
-              {"name": "TBD", "size":0.00}
-             ]
-            }, 
-            {
-             "name": "School", "size":0.00,
-              "children": [
-              {
-               "name": "Military", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "School", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "Work", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {"name": "Retired", "size":0.00},
-              {"name": "TBD", "size":0.00}
-             ]
-            },   
-            {
-             "name": "Work", "size":0.00,
-              "children": [
-              {
-               "name": "Military", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "School", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "Work", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {"name": "Retired", "size":0.00},
-              {"name": "TBD", "size":0.00}
-             ]
-            },   
-            {"name": "Retired", "size":0.00},
-            {"name": "TBD", "size":0.00}
-           ]
-          },    
-          {
-           "name": "Work", "size":0.00,
-            "children": [          
-            {
-             "name": "Military", "size":0.00,
-              "children": [
-              {
-               "name": "Military", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "School", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "Work", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {"name": "Retired", "size":0.00},
-              {"name": "TBD", "size":0.00}
-             ]
-            }, 
-            {
-             "name": "School", "size":0.00,
-              "children": [
-              {
-               "name": "Military", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "School", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "Work", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {"name": "Retired", "size":0.00},
-              {"name": "TBD", "size":0.00}
-             ]
-            },   
-            {
-             "name": "Work", "size":0.00,
-              "children": [
-              {
-               "name": "Military", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "School", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "Work", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {"name": "Retired", "size":0.00},
-              {"name": "TBD", "size":0.00}
-             ]
-            },   
-            {"name": "Retired", "size":0.00},
-            {"name": "TBD", "size":0.00}
-           ]
-          },    
-          {"name": "Retired", "size":0.00},
-          {"name": "TBD", "size":0.00}
-         ]
-        },     
-        {
-         "name": "School", "size":1,
-		 "children": [
-          {
-           "name": "Military", "size":0.00,
-            "children": [          
-            {
-             "name": "Military", "size":0.00,
-              "children": [
-              {
-               "name": "Military", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "School", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "Work", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {"name": "Retired", "size":0.00},
-              {"name": "TBD", "size":0.00}
-             ]
-            }, 
-            {
-             "name": "School", "size":0.00,
-              "children": [
-              {
-               "name": "Military", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "School", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "Work", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {"name": "Retired", "size":0.00},
-              {"name": "TBD", "size":0.00}
-             ]
-            },   
-            {
-             "name": "Work", "size":0.00,
-              "children": [
-              {
-               "name": "Military", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "School", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "Work", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {"name": "Retired", "size":0.00},
-              {"name": "TBD", "size":0.00}
-             ]
-            },   
-            {"name": "Retired", "size":0.00},
-            {"name": "TBD", "size":0.00}
-           ]
-          },   
-          {
-           "name": "School", "size":0.00,
-            "children": [          
-            {
-             "name": "Military", "size":0.00,
-              "children": [
-              {
-               "name": "Military", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "School", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "Work", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {"name": "Retired", "size":0.00},
-              {"name": "TBD", "size":0.00}
-             ]
-            }, 
-            {
-             "name": "School", "size":0.00,
-              "children": [
-              {
-               "name": "Military", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "School", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "Work", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {"name": "Retired", "size":0.00},
-              {"name": "TBD", "size":0.00}
-             ]
-            },   
-            {
-             "name": "Work", "size":0.00,
-              "children": [
-              {
-               "name": "Military", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "School", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "Work", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {"name": "Retired", "size":0.00},
-              {"name": "TBD", "size":0.00}
-             ]
-            },   
-            {"name": "Retired", "size":0.00},
-            {"name": "TBD", "size":0.00}
-           ]
-          },    
-          {
-           "name": "Work", "size":0.00,
-            "children": [          
-            {
-             "name": "Military", "size":0.00,
-              "children": [
-              {
-               "name": "Military", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "School", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "Work", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {"name": "Retired", "size":0.00},
-              {"name": "TBD", "size":0.00}
-             ]
-            }, 
-            {
-             "name": "School", "size":0.00,
-              "children": [
-              {
-               "name": "Military", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "School", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "Work", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {"name": "Retired", "size":0.00},
-              {"name": "TBD", "size":0.00}
-             ]
-            },   
-            {
-             "name": "Work", "size":0.00,
-              "children": [
-              {
-               "name": "Military", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "School", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "Work", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {"name": "Retired", "size":0.00},
-              {"name": "TBD", "size":0.00}
-             ]
-            },   
-            {"name": "Retired", "size":0.00},
-            {"name": "TBD", "size":0.00}
-           ]
-          },    
-          {"name": "Retired", "size":0.00},
-          {"name": "TBD", "size":1}
-         ]
-        },
-        {
-         "name": "Work", "size":0.00,
-		 "children": [
-          {
-           "name": "Military", "size":0.00,
-            "children": [          
-            {
-             "name": "Military", "size":0.00,
-              "children": [
-              {
-               "name": "Military", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "School", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "Work", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {"name": "Retired", "size":0.00},
-              {"name": "TBD", "size":0.00}
-             ]
-            }, 
-            {
-             "name": "School", "size":0.00,
-              "children": [
-              {
-               "name": "Military", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "School", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "Work", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {"name": "Retired", "size":0.00},
-              {"name": "TBD", "size":0.00}
-             ]
-            },   
-            {
-             "name": "Work", "size":0.00,
-              "children": [
-              {
-               "name": "Military", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "School", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "Work", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {"name": "Retired", "size":0.00},
-              {"name": "TBD", "size":0.00}
-             ]
-            },   
-            {"name": "Retired", "size":0.00},
-            {"name": "TBD", "size":0.00}
-           ]
-          },   
-          {
-           "name": "School", "size":0.00,
-            "children": [          
-            {
-             "name": "Military", "size":0.00,
-              "children": [
-              {
-               "name": "Military", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "School", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "Work", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {"name": "Retired", "size":0.00},
-              {"name": "TBD", "size":0.00}
-             ]
-            }, 
-            {
-             "name": "School", "size":0.00,
-              "children": [
-              {
-               "name": "Military", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "School", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "Work", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {"name": "Retired", "size":0.00},
-              {"name": "TBD", "size":0.00}
-             ]
-            },   
-            {
-             "name": "Work", "size":0.00,
-              "children": [
-              {
-               "name": "Military", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "School", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "Work", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {"name": "Retired", "size":0.00},
-              {"name": "TBD", "size":0.00}
-             ]
-            },   
-            {"name": "Retired", "size":0.00},
-            {"name": "TBD", "size":0.00}
-           ]
-          },    
-          {
-           "name": "Work", "size":0.00,
-            "children": [          
-            {
-             "name": "Military", "size":0.00,
-              "children": [
-              {
-               "name": "Military", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "School", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "Work", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {"name": "Retired", "size":0.00},
-              {"name": "TBD", "size":0.00}
-             ]
-            }, 
-            {
-             "name": "School", "size":0.00,
-              "children": [
-              {
-               "name": "Military", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "School", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "Work", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {"name": "Retired", "size":0.00},
-              {"name": "TBD", "size":0.00}
-             ]
-            },   
-            {
-             "name": "Work", "size":0.00,
-              "children": [
-              {
-               "name": "Military", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "School", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {
-               "name": "Work", "size":0.00,
-                "children": [
-                  {"name": "Military", "size":0.00},
-                  {"name": "School", "size":0.00},
-                  {"name": "Work", "size":0.00},
-                  {"name": "Retired", "size":0.00},
-                  {"name": "TBD", "size":0.00}
-         				]
-        			},
-              {"name": "Retired", "size":0.00},
-              {"name": "TBD", "size":0.00}
-             ]
-            },   
-            {"name": "Retired", "size":0.00},
-            {"name": "TBD", "size":0.00}
-           ]
-          },    
-          {"name": "Retired", "size":0.00},
-          {"name": "TBD", "size":0.00}
-         ]
-        },
-        {"name": "Retired", "size":0.00},
-        {"name": "TBD", "size":1}
-       ]
-      },
-      {
-       "name": "Work", "size":0.00,
+       "name": "School", "size":5,
        "children": [
         {
          "name": "Military", "size":0.00,
@@ -18946,7 +17857,7 @@
         },     
         {
          "name": "School", "size":0.00,
-		 			"children": [
+		 "children": [
           {
            "name": "Military", "size":0.00,
             "children": [          
@@ -19299,6 +18210,1096 @@
             },   
             {"name": "Retired", "size":0.00},
             {"name": "TBD", "size":0.00}
+           ]
+          },    
+          {"name": "Retired", "size":0.00},
+          {"name": "TBD", "size":0.00}
+         ]
+        },
+        {
+         "name": "Work", "size":2,
+		 "children": [
+          {
+           "name": "Military", "size":0.00,
+            "children": [          
+            {
+             "name": "Military", "size":0.00,
+              "children": [
+              {
+               "name": "Military", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "School", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "Work", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {"name": "Retired", "size":0.00},
+              {"name": "TBD", "size":0.00}
+             ]
+            }, 
+            {
+             "name": "School", "size":0.00,
+              "children": [
+              {
+               "name": "Military", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "School", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "Work", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {"name": "Retired", "size":0.00},
+              {"name": "TBD", "size":0.00}
+             ]
+            },   
+            {
+             "name": "Work", "size":0.00,
+              "children": [
+              {
+               "name": "Military", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "School", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "Work", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {"name": "Retired", "size":0.00},
+              {"name": "TBD", "size":0.00}
+             ]
+            },   
+            {"name": "Retired", "size":0.00},
+            {"name": "TBD", "size":0.00}
+           ]
+          },   
+          {
+           "name": "School", "size":0.00,
+            "children": [          
+            {
+             "name": "Military", "size":0.00,
+              "children": [
+              {
+               "name": "Military", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "School", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "Work", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {"name": "Retired", "size":0.00},
+              {"name": "TBD", "size":0.00}
+             ]
+            }, 
+            {
+             "name": "School", "size":0.00,
+              "children": [
+              {
+               "name": "Military", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "School", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "Work", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {"name": "Retired", "size":0.00},
+              {"name": "TBD", "size":0.00}
+             ]
+            },   
+            {
+             "name": "Work", "size":0.00,
+              "children": [
+              {
+               "name": "Military", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "School", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "Work", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {"name": "Retired", "size":0.00},
+              {"name": "TBD", "size":0.00}
+             ]
+            },   
+            {"name": "Retired", "size":0.00},
+            {"name": "TBD", "size":0.00}
+           ]
+          },    
+          {
+           "name": "Work", "size":1,
+            "children": [          
+            {
+             "name": "Military", "size":0.00,
+              "children": [
+              {
+               "name": "Military", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "School", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "Work", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {"name": "Retired", "size":0.00},
+              {"name": "TBD", "size":0.00}
+             ]
+            }, 
+            {
+             "name": "School", "size":0.00,
+              "children": [
+              {
+               "name": "Military", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "School", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "Work", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {"name": "Retired", "size":0.00},
+              {"name": "TBD", "size":0.00}
+             ]
+            },   
+            {
+             "name": "Work", "size":1,
+              "children": [
+              {
+               "name": "Military", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "School", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "Work", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {"name": "Retired", "size":0.00},
+              {"name": "TBD", "size":1}
+             ]
+            },   
+            {"name": "Retired", "size":0.00},
+            {"name": "TBD", "size":0.00}
+           ]
+          },    
+          {"name": "Retired", "size":0.00},
+          {"name": "TBD", "size":1}
+         ]
+        },
+        {"name": "Retired", "size":0.00},
+        {"name": "TBD", "size":3}
+       ]
+      },
+      {
+       "name": "Work", "size":1,
+       "children": [
+        {
+         "name": "Military", "size":0.00,
+		 "children": [
+          {
+           "name": "Military", "size":0.00,
+            "children": [          
+            {
+             "name": "Military", "size":0.00,
+              "children": [
+              {
+               "name": "Military", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "School", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "Work", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {"name": "Retired", "size":0.00},
+              {"name": "TBD", "size":0.00}
+             ]
+            }, 
+            {
+             "name": "School", "size":0.00,
+              "children": [
+              {
+               "name": "Military", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "School", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "Work", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {"name": "Retired", "size":0.00},
+              {"name": "TBD", "size":0.00}
+             ]
+            },   
+            {
+             "name": "Work", "size":0.00,
+              "children": [
+              {
+               "name": "Military", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "School", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "Work", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {"name": "Retired", "size":0.00},
+              {"name": "TBD", "size":0.00}
+             ]
+            },   
+            {"name": "Retired", "size":0.00},
+            {"name": "TBD", "size":0.00}
+           ]
+          },   
+          {
+           "name": "School", "size":0.00,
+            "children": [          
+            {
+             "name": "Military", "size":0.00,
+              "children": [
+              {
+               "name": "Military", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "School", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "Work", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {"name": "Retired", "size":0.00},
+              {"name": "TBD", "size":0.00}
+             ]
+            }, 
+            {
+             "name": "School", "size":0.00,
+              "children": [
+              {
+               "name": "Military", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "School", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "Work", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {"name": "Retired", "size":0.00},
+              {"name": "TBD", "size":0.00}
+             ]
+            },   
+            {
+             "name": "Work", "size":0.00,
+              "children": [
+              {
+               "name": "Military", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "School", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "Work", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {"name": "Retired", "size":0.00},
+              {"name": "TBD", "size":0.00}
+             ]
+            },   
+            {"name": "Retired", "size":0.00},
+            {"name": "TBD", "size":0.00}
+           ]
+          },    
+          {
+           "name": "Work", "size":0.00,
+            "children": [          
+            {
+             "name": "Military", "size":0.00,
+              "children": [
+              {
+               "name": "Military", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "School", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "Work", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {"name": "Retired", "size":0.00},
+              {"name": "TBD", "size":0.00}
+             ]
+            }, 
+            {
+             "name": "School", "size":0.00,
+              "children": [
+              {
+               "name": "Military", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "School", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "Work", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {"name": "Retired", "size":0.00},
+              {"name": "TBD", "size":0.00}
+             ]
+            },   
+            {
+             "name": "Work", "size":0.00,
+              "children": [
+              {
+               "name": "Military", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "School", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "Work", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {"name": "Retired", "size":0.00},
+              {"name": "TBD", "size":0.00}
+             ]
+            },   
+            {"name": "Retired", "size":0.00},
+            {"name": "TBD", "size":0.00}
+           ]
+          },    
+          {"name": "Retired", "size":0.00},
+          {"name": "TBD", "size":0.00}
+         ]
+        },     
+        {
+         "name": "School", "size":1,
+		 			"children": [
+          {
+           "name": "Military", "size":0.00,
+            "children": [          
+            {
+             "name": "Military", "size":0.00,
+              "children": [
+              {
+               "name": "Military", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "School", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "Work", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {"name": "Retired", "size":0.00},
+              {"name": "TBD", "size":0.00}
+             ]
+            }, 
+            {
+             "name": "School", "size":0.00,
+              "children": [
+              {
+               "name": "Military", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "School", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "Work", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {"name": "Retired", "size":0.00},
+              {"name": "TBD", "size":0.00}
+             ]
+            },   
+            {
+             "name": "Work", "size":0.00,
+              "children": [
+              {
+               "name": "Military", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "School", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "Work", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {"name": "Retired", "size":0.00},
+              {"name": "TBD", "size":0.00}
+             ]
+            },   
+            {"name": "Retired", "size":0.00},
+            {"name": "TBD", "size":0.00}
+           ]
+          },   
+          {
+           "name": "School", "size":0.00,
+            "children": [          
+            {
+             "name": "Military", "size":0.00,
+              "children": [
+              {
+               "name": "Military", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "School", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "Work", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {"name": "Retired", "size":0.00},
+              {"name": "TBD", "size":0.00}
+             ]
+            }, 
+            {
+             "name": "School", "size":0.00,
+              "children": [
+              {
+               "name": "Military", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "School", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "Work", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {"name": "Retired", "size":0.00},
+              {"name": "TBD", "size":0.00}
+             ]
+            },   
+            {
+             "name": "Work", "size":0.00,
+              "children": [
+              {
+               "name": "Military", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "School", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "Work", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {"name": "Retired", "size":0.00},
+              {"name": "TBD", "size":0.00}
+             ]
+            },   
+            {"name": "Retired", "size":0.00},
+            {"name": "TBD", "size":0.00}
+           ]
+          },    
+          {
+           "name": "Work", "size":1,
+            "children": [          
+            {
+             "name": "Military", "size":0.00,
+              "children": [
+              {
+               "name": "Military", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "School", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "Work", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {"name": "Retired", "size":0.00},
+              {"name": "TBD", "size":0.00}
+             ]
+            }, 
+            {
+             "name": "School", "size":0.00,
+              "children": [
+              {
+               "name": "Military", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "School", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "Work", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {"name": "Retired", "size":0.00},
+              {"name": "TBD", "size":0.00}
+             ]
+            },   
+            {
+             "name": "Work", "size":0.00,
+              "children": [
+              {
+               "name": "Military", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "School", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {
+               "name": "Work", "size":0.00,
+                "children": [
+                  {"name": "Military", "size":0.00},
+                  {"name": "School", "size":0.00},
+                  {"name": "Work", "size":0.00},
+                  {"name": "Retired", "size":0.00},
+                  {"name": "TBD", "size":0.00}
+         				]
+        			},
+              {"name": "Retired", "size":0.00},
+              {"name": "TBD", "size":0.00}
+             ]
+            },   
+            {"name": "Retired", "size":0.00},
+            {"name": "TBD", "size":1}
            ]
           },    
           {"name": "Retired", "size":0.00},
@@ -19670,7 +19671,7 @@
         {"name": "TBD", "size":0.000}
        ]
       },
-	  {"name": "Retired", "size":0},
+	  {"name": "Retired", "size":2},
       {"name": "TBD", "size":4} 
      ]
     },
@@ -19679,10 +19680,10 @@
    ]
   },      
   {
-   "name": "Work", "size":42,
+   "name": "Work", "size":44,
    "children": [
     {
-     "name": "Military", "size":23,
+     "name": "Military", "size":25,
      "children": [
       {
        "name": "Military", "size":0.00,
@@ -20775,7 +20776,7 @@
        ]
       }, 
       {
-       "name": "School", "size":12,
+       "name": "School", "size":13,
        "children": [
         {
          "name": "Military", "size":0.00,
@@ -21861,11 +21862,11 @@
          ]
         },
         {"name": "Retired", "size":0.00},
-        {"name": "TBD", "size":6}
+        {"name": "TBD", "size":7}
        ]
       },
       {
-       "name": "Work", "size":10,
+       "name": "Work", "size":11,
        "children": [
         {
          "name": "Military", "size":0.00,
@@ -22590,7 +22591,7 @@
          ]
         },
         {
-         "name": "Work", "size":2,
+         "name": "Work", "size":3,
 		 "children": [
           {
            "name": "Military", "size":0.00,
@@ -22947,7 +22948,7 @@
            ]
           },    
           {"name": "Retired", "size":0.00},
-          {"name": "TBD", "size":1}
+          {"name": "TBD", "size":2}
          ]
         },
         {"name": "Retired", "size":1},

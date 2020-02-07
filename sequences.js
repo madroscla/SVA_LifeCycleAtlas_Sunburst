@@ -33,11 +33,15 @@ var overall = d3.json("/data/overall/overall.json", function(error, data) {
 drawLegend();
 
 
+
 // Main function to draw and set up the visualization, once we have the data.
 function createVisualization(json) {
 
     d3.select("#title")
         .text(json.category);
+
+    d3.select("#subtitle")
+        .text(json.subtitle);
 
     // Used later to calculate sums
     function leafLeft(node) {
@@ -108,7 +112,7 @@ function createVisualization(json) {
     // For efficiency, filter nodes to keep only those large enough to see.
     var nodes = partition(root).descendants()
         .filter(function(d) {
-            return (d.x1 - d.x0 > 0.005); // 0.005 radians = 0.29 degrees
+            return (d.x1 - d.x0 > 0.003); // 0.005 radians = 0.29 degrees
         });
 
     var path = vis.data([json]).selectAll("path")
@@ -275,7 +279,6 @@ function updateBreadcrumbs(nodeArray, percentageString) {
         .style("visibility", "");
 
     trail.exit().remove();
-    d3.select("#trail").exit().remove();
 }
 
 
@@ -293,6 +296,11 @@ function drawLegend() {
         .attr("width", li.w)
         .attr("height", d3.keys(colors).length * (li.h + li.s));
 
+    // Define the div for the tooltip
+    var div = d3.select("body").append("div")
+        .attr("class", "tooltip")
+        .style("opacity", 0);
+
     var g = legend.selectAll("g")
         .data(d3.entries(colors))
         .enter().append("svg:g")
@@ -300,24 +308,111 @@ function drawLegend() {
             return "translate(0," + i * (li.h + li.s) + ")";
         });
 
+    var def = {
+        "Military": "test1",
+        "School": "test2",
+        "Work": "test3",
+        "Retired": "Test4",
+        "TBD": "test5"
+    };
+
     g.append("svg:rect")
         .attr("rx", li.r)
         .attr("ry", li.r)
         .attr("width", li.w)
         .attr("height", li.h)
-        .style("fill", function(d) { return d.value; });
+        .style("fill", function(d) { return d.value; })
+        .on("mouseover", function(d) {
+            div.transition()
+                .duration(200)
+                .style("opacity", .9);
+            // Different tooltips based on what legend option the mouse hovers over
+            switch (d.key) {
+                case "Military":
+                    div.html("This path indicates that the participant enlisted in the military as active duty. This may also indicate that they both joined the military and enrolled in school (ROTC program, Military Academy, etc.).")
+                        .style("left", "1020px")
+                        .style("top", "94px")
+                    break;
+                case "School":
+                    div.html("This path indicates that the participant enrolled in school full-time (college, university, trade school, etc.). This may also indicate that they both enrolled in school and joined the Reserves or National Guard, transferred schools, or went to another school after graduating.")
+                        .style("left", "1020px")
+                        .style("top", "127px");
+                    break;
+                case "Work":
+                    div.html("This path indicates that the participant started working a full-time, non-military job. This may also indicate that they both started working a full-time job and joined the Reserves or National Guard, or it may indicate that they both worked a full-time job and enrolled in school part-time (college, university, trade school, etc.).")
+                        .style("left", "1020px")
+                        .style("top", "160px");
+                    break;
+                case "Retired":
+                    div.html("This path indicates that the participant has retired and is no longer working, going to school, or in the military.")
+                        .style("left", "1020px")
+                        .style("top", "193px");
+                    break;
+                case "TBD":
+                    div.html("This path indicates that the participant has not reached the next stage in their lifecycle yet. This may also indicate that the participant did not wish to share the further stages of their cycle.")
+                        .style("left", "1020px")
+                        .style("top", "226px");
+                    break;
+            }
+        })
+        .on("mouseout", function(d) {
+            div.transition()
+                .duration(500)
+                .style("opacity", 0);
+        });
 
     g.append("svg:text")
         .attr("x", li.w / 2)
         .attr("y", li.h / 2)
         .attr("dy", "0.35em")
         .attr("text-anchor", "middle")
-        .text(function(d) { return d.key; });
-}
+        .text(function(d) { return d.key; })
+        // Without a repeat of this code, the tooltip would not appear when the mouse hovers over the text
+        .on("mouseover", function(d) {
+            div.transition()
+                .duration(200)
+                .style("opacity", .9);
+            switch (d.key) {
+                case "Military":
+                    div.html("This path indicates that the participant enlisted in the military as active duty. This may also indicate that they both joined the military and enrolled in school (ROTC program, Military Academy, etc.).")
+                        .style("left", "1020px")
+                        .style("top", "94px")
+                    break;
+                case "School":
+                    div.html("This path indicates that the participant enrolled in school full-time (college, university, trade school, etc.). This may also indicate that they both enrolled in school and joined the Reserves or National Guard, transferred schools, or went to another school after graduating.")
+                        .style("left", "1020px")
+                        .style("top", "127px");
+                    break;
+                case "Work":
+                    div.html("This path indicates that the participant started working a full-time, non-military job. This may also indicate that they both started working a full-time job and joined the Reserves or National Guard, or it may indicate that they both worked a full-time job and enrolled in school part-time (college, university, trade school, etc.).")
+                        .style("left", "1020px")
+                        .style("top", "160px");
+                    break;
+                case "Retired":
+                    div.html("This path indicates that the participant has retired and is no longer working, going to school, or in the military.")
+                        .style("left", "1020px")
+                        .style("top", "193px");
+                    break;
+                case "TBD":
+                    div.html("This path indicates that the participant has not reached the next stage in their lifecycle yet. This may also indicate that the participant did not wish to share the further stages of their cycle.")
+                        .style("left", "1020px")
+                        .style("top", "226px");
+                    break;
+            }
+        })
+        .on("mouseout", function(d) {
+            div.transition()
+                .duration(500)
+                .style("opacity", 0);
+        });
+
+
+};
 
 // Reads in JSON files based on attributes of <li> items
 d3.selectAll("li")
     .on("click", function(d, i) {
+        d3.select("#trail").remove();
         var folder = document.getElementsByTagName("li")[i].getAttribute('data-folder');
         console.log(folder);
 

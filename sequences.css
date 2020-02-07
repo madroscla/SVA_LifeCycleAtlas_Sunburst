@@ -3,8 +3,7 @@ body {
     font-size: 12px;
     font-weight: 400;
     background-color: #fff;
-    position: fixed;
-    width: 960px;
+    width: 1000px;
     height: 550px;
     margin-top: 10px;
 }
@@ -14,9 +13,17 @@ body {
     width: 750px;
 }
 
-#sidebar {
+#sidebar-left {
     float: left;
     width: 120px;
+}
+
+#sidebar-right {
+    text-align: center;
+    float: right;
+    height: 10px;
+    width: 70px;
+    padding-left: 1px;
 }
 
 #sequence {
@@ -28,7 +35,20 @@ body {
 #legend {
     float: right;
     width: 1px;
-    padding: 20px 0 0 3px;
+    padding: 85px 0 0 0;
+}
+
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    width: 150px;
+    padding: 2px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    background: lightsteelblue;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
 }
 
 #title {
@@ -37,6 +57,15 @@ body {
     position: absolute;
     left: 175px;
     top: 40px;
+}
+
+#subtitle {
+    font-size: 13px;
+    font-weight: 600;
+    position: absolute;
+    width: 600px;
+    left: 175px;
+    top: 70px;
 }
 
 #optionsList {
@@ -52,6 +81,7 @@ body {
 
 #chart {
     position: relative;
+    padding: 20px
 }
 
 #chart path {
@@ -66,6 +96,7 @@ body {
     text-align: center;
     color: #666;
     z-index: -1;
+    padding: 20px
 }
 
 #percentage {
