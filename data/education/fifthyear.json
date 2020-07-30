@@ -1,10 +1,10 @@
 {
  "name": "root",
  "category": "Education Level - 5th year certificate",
- "subtitle":"This diagram shows paths of all 50 participants who marked their highest education level/intended highest education level as \"5th year certificate.\"",
+ "subtitle":"This diagram shows paths of all 51 participants who marked their highest education level/intended highest education level as \"5th year certificate.\"",
  "children": [
   {
-   "name": "Military", "size":26,
+   "name": "Military", "size":27,
    "children": [
     {
      "name": "Military", "size":1,
@@ -3284,7 +3284,7 @@
      ]
     },	 
     {
-     "name": "School", "size":8,
+     "name": "School", "size":9,
      "children": [
       {
        "name": "Military", "size":1,
@@ -6557,7 +6557,7 @@
        ]
       },
 	  {"name": "Retired", "size":0.00},
-      {"name": "TBD", "size":4} 
+      {"name": "TBD", "size":5} 
      ]
     },    
     {
@@ -9845,7 +9845,7 @@
    "name": "School", "size":13,
    "children": [
     {
-     "name": "Military", "size":3,
+     "name": "Military", "size":5,
      "children": [
       {
        "name": "Military", "size":0,
@@ -10938,7 +10938,7 @@
        ]
       }, 
       {
-       "name": "School", "size":0.00,
+       "name": "School", "size":1,
        "children": [
         {
          "name": "Military", "size":0.00,
@@ -11302,7 +11302,7 @@
          ]
         },     
         {
-         "name": "School", "size":0.00,
+         "name": "School", "size":1,
 		 "children": [
           {
            "name": "Military", "size":0.00,
@@ -11659,7 +11659,7 @@
            ]
           },    
           {"name": "Retired", "size":0.00},
-          {"name": "TBD", "size":0.00}
+          {"name": "TBD", "size":1}
          ]
         },
         {
@@ -12028,7 +12028,7 @@
        ]
       },
       {
-       "name": "Work", "size":0.00,
+       "name": "Work", "size":1,
        "children": [
         {
          "name": "Military", "size":0.00,
@@ -12392,7 +12392,7 @@
          ]
         },     
         {
-         "name": "School", "size":0.000,
+         "name": "School", "size":1,
 		 "children": [
           {
            "name": "Military", "size":0.00,
@@ -12749,7 +12749,7 @@
            ]
           },    
           {"name": "Retired", "size":0.00},
-          {"name": "TBD", "size":0.00}
+          {"name": "TBD", "size":1}
          ]
         },
         {
@@ -14215,7 +14215,7 @@
        ]
       }, 
       {
-       "name": "School", "size":1,
+       "name": "School", "size":0.00,
        "children": [
         {
          "name": "Military", "size":0.00,
@@ -15301,14 +15301,14 @@
          ]
         },
         {"name": "Retired", "size":0.00},
-        {"name": "TBD", "size":1}
+        {"name": "TBD", "size":0.00}
        ]
       },
       {
-       "name": "Work", "size":0.00,
+       "name": "Work", "size":1,
        "children": [
         {
-         "name": "Military", "size":0.00,
+         "name": "Military", "size":1,
 		 "children": [
           {
            "name": "Military", "size":0.00,
@@ -15547,7 +15547,7 @@
            ]
           },    
           {
-           "name": "Work", "size":0.00,
+           "name": "Work", "size":1,
             "children": [          
             {
              "name": "Military", "size":0.00,
@@ -15661,7 +15661,7 @@
              ]
             },   
             {"name": "Retired", "size":0.00},
-            {"name": "TBD", "size":0.00}
+            {"name": "TBD", "size":1}
            ]
           },    
           {"name": "Retired", "size":0.00},
@@ -16399,10 +16399,10 @@
      ]
     },    
     {
-     "name": "Work", "size":2,
+     "name": "Work", "size":0.00,
      "children": [
       {
-       "name": "Military", "size":1,
+       "name": "Military", "size":0.00,
        "children": [
         {
          "name": "Military", "size":0.00,
@@ -17127,7 +17127,7 @@
          ]
         },
         {
-         "name": "Work", "size":1,
+         "name": "Work", "size":0.00,
 		 "children": [
           {
            "name": "Military", "size":0.00,
@@ -17484,7 +17484,7 @@
            ]
           },    
           {"name": "Retired", "size":0.00},
-          {"name": "TBD", "size":1}
+          {"name": "TBD", "size":0.00}
          ]
         },
         {"name": "Retired", "size":0.00},
@@ -17492,7 +17492,7 @@
        ]
       }, 
       {
-       "name": "School", "size":1,
+       "name": "School", "size":0.00,
        "children": [
         {
          "name": "Military", "size":0.00,
@@ -18578,7 +18578,7 @@
          ]
         },
         {"name": "Retired", "size":0.00},
-        {"name": "TBD", "size":1}
+        {"name": "TBD", "size":0.00}
        ]
       },
       {

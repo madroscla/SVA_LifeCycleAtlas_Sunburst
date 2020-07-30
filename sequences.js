@@ -13,11 +13,11 @@ var b = {
 
 // Mapping of step names to colors.
 var colors = {
-    "Military": "da3e18",
-    "School": "ed7833",
-    "Work": "e1b256",
-    "Retired": "6e8f58",
-    "TBD": "267f85"
+    "Military": "#da3e18",
+    "School": "#ed7833",
+    "Work": "#e1b256",
+    "Retired": "#6e8f58",
+    "TBD": "#267f85"
 };
 
 
@@ -308,14 +308,6 @@ function drawLegend() {
             return "translate(0," + i * (li.h + li.s) + ")";
         });
 
-    var def = {
-        "Military": "test1",
-        "School": "test2",
-        "Work": "test3",
-        "Retired": "Test4",
-        "TBD": "test5"
-    };
-
     g.append("svg:rect")
         .attr("rx", li.r)
         .attr("ry", li.r)
@@ -367,7 +359,8 @@ function drawLegend() {
         .attr("dy", "0.35em")
         .attr("text-anchor", "middle")
         .text(function(d) { return d.key; })
-        // Without a repeat of this code, the tooltip would not appear when the mouse hovers over the text
+        // Without a repeat of this code, the tooltip would not appear when the
+        // mouse hovers over the text within each legend box
         .on("mouseover", function(d) {
             div.transition()
                 .duration(200)
@@ -418,8 +411,6 @@ d3.selectAll("li")
 
         var selected = document.getElementsByTagName("li")[i].getAttribute('data-id');
         console.log(selected);
-
-
 
         // Because of hierarchical items, the child items in the menu
         // will return both their index value and their parents' value, the latter may throw an error

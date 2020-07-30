@@ -1,10 +1,10 @@
 {
  "name": "root",
  "category": "Age range - Ages 18-24",
- "subtitle":"This diagram shows paths of all 80 participants between the ages of 18-24.",
+ "subtitle":"This diagram shows paths of all 102 participants between the ages of 18-24.",
  "children": [
   {
-   "name": "Military", "size":47,
+   "name": "Military", "size":55,
    "children": [
     {
      "name": "Military", "size":2,
@@ -3284,7 +3284,7 @@
      ]
     },	 
     {
-     "name": "School", "size":15,
+     "name": "School", "size":18,
      "children": [
       {
        "name": "Military", "size":0,
@@ -6557,11 +6557,11 @@
        ]
       },
 	  {"name": "Retired", "size":0.00},
-      {"name": "TBD", "size":15} 
+      {"name": "TBD", "size":18} 
      ]
     },    
     {
-     "name": "Work", "size":2,
+     "name": "Work", "size":3,
      "children": [
       {
        "name": "Military", "size":0.00,
@@ -9834,15 +9834,15 @@
        ]
       },
 	  {"name": "Retired", "size":0.00},
-      {"name": "TBD", "size":1} 
+      {"name": "TBD", "size":2} 
      ]
     },
 	{"name": "Retired", "size":0.00},
-    {"name": "TBD", "size":28}
+    {"name": "TBD", "size":32}
    ]
   },
   {
-   "name": "School", "size":27,
+   "name": "School", "size":38,
    "children": [
     {
      "name": "Military", "size":1,
@@ -19676,11 +19676,11 @@
      ]
     },
 	{"name": "Retired", "size":0},
-    {"name": "TBD", "size":20}
+    {"name": "TBD", "size":31}
    ]
   },      
   {
-   "name": "Work", "size":6,
+   "name": "Work", "size":9,
    "children": [
     {
      "name": "Military", "size":4,
@@ -22960,7 +22960,7 @@
      ]
     },	 
     {
-     "name": "School", "size":0.00,
+     "name": "School", "size":1,
      "children": [
       {
        "name": "Military", "size":0.00,
@@ -26233,7 +26233,7 @@
        ]
       },
 	  {"name": "Retired", "size":0.00},
-      {"name": "TBD", "size":0.00} 
+      {"name": "TBD", "size":1} 
      ]
     },    
     {
@@ -29514,7 +29514,7 @@
      ]
     },
 	{"name": "Retired", "size":0.00},
-    {"name": "TBD", "size":2}
+    {"name": "TBD", "size":4}
    ]
   },
   {"name": "Retired", "size":0.00},
